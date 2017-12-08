@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="13196" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13174"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" id="wUs-3W-bLg" customClass="MenuItemCell" customModule="PandaShop" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="112" height="120"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" insetsLayoutMarginsFromSafeArea="NO">
+                <rect key="frame" x="0.0" y="0.0" width="112" height="120"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="vip.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="fNR-mc-pDJ">
+                        <rect key="frame" x="21.5" y="8" width="70" height="70"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="70" id="RWz-AC-fD2"/>
+                            <constraint firstAttribute="width" constant="70" id="oPK-St-W0h"/>
+                        </constraints>
+                    </imageView>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="美食" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ZhA-XP-Z8N">
+                        <rect key="frame" x="0.0" y="86" width="112" height="14"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="14" id="R8t-V3-Hez"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                </subviews>
+            </view>
+            <constraints>
+                <constraint firstItem="fNR-mc-pDJ" firstAttribute="top" secondItem="wUs-3W-bLg" secondAttribute="top" constant="8" id="IuW-vw-qE7"/>
+                <constraint firstItem="fNR-mc-pDJ" firstAttribute="centerX" secondItem="wUs-3W-bLg" secondAttribute="centerX" id="Lfd-D0-Mx3"/>
+                <constraint firstItem="ZhA-XP-Z8N" firstAttribute="top" secondItem="fNR-mc-pDJ" secondAttribute="bottom" constant="8" id="Vqv-9L-7Ax"/>
+                <constraint firstAttribute="trailing" secondItem="ZhA-XP-Z8N" secondAttribute="trailing" id="ndc-fp-Cy4"/>
+                <constraint firstItem="ZhA-XP-Z8N" firstAttribute="leading" secondItem="wUs-3W-bLg" secondAttribute="leading" id="ra2-l4-4sE"/>
+            </constraints>
+            <viewLayoutGuide key="safeArea" id="LoJ-Xy-2Qr"/>
+            <size key="customSize" width="112" height="120"/>
+            <connections>
+                <outlet property="itemImageV" destination="fNR-mc-pDJ" id="cbK-5C-41d"/>
+                <outlet property="itemLabel" destination="ZhA-XP-Z8N" id="Osc-lJ-CnF"/>
+            </connections>
+            <point key="canvasLocation" x="-206" y="-45"/>
+        </collectionViewCell>
+    </objects>
+    <resources>
+        <image name="vip.jpg" width="1024" height="353"/>
+    </resources>
+</document>

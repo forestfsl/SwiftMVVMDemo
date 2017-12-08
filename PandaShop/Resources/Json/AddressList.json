@@ -1,0 +1,30 @@
+{
+    "data":[
+            {
+            "cityCode":"110100",
+            "cityName":"广州市",
+            "consignee":"冯宋林",
+            "consigneePhone":"15013339531",
+            "customArea":"洛溪新城如意花园12栋302",
+            "deliveryAddress":"广州市番禺区洛溪新城如意花园",
+            "provinceCode":"110000",
+            "provinceName":"广东省",
+            "regionCode":"110100",
+            "addressId":"73E6AD2B-6312-46BE-A346-317E823EE809",
+            "isDefault":"1"
+            },
+            {
+            "cityCode":"110100",
+            "cityName":"广州市",
+            "consignee":"冯宋林",
+            "consigneePhone":"15013339531",
+            "customArea":"洛溪新城如意花园12栋302",
+            "deliveryAddress":"广州市番禺区洛溪新城如意花园",
+            "provinceCode":"110000",
+            "provinceName":"广东省",
+            "regionCode":"110100",
+            "addressId":"73E6AD2B-6312-46BE-A346-317E823EE809",
+            "isDefault":"0"
+            }
+            ]
+}

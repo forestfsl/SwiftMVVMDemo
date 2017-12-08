@@ -1,0 +1,603 @@
+{
+    "code": 0,
+    "data": {
+        "floors": [
+                   {
+                   "floorBgColor": "",
+                   "floorBgImg": "http: //img.mbp.jianke.com/522c7e2dd8dd2a484f3292c0bcce4cc5?q=",
+                   "floorBottomMargin": "0",
+                   "floorTemplateName": "BannerCell",
+                   "rooms": [
+                             {
+                             "action": "http://app.jianke.com/zhuanti/wak-pjb/",
+                             "headImg": "https://ss2.baidu.com/-vo3dSag_xI4khGko9WTAnF6hhy/super/whfpf%3D425%2C260%2C50/sign=a4b3d7085dee3d6d2293d48b252b5910/0e2442a7d933c89524cd5cd4d51373f0830200ea.jpg",
+                             "title" : "美食",
+                             "marketPrice":"6000",
+                             "productCode":"11308",
+                             "productImage":"http://img.jianke.net/upload/prodimage/201709/201797183120584.jpg",
+                             "productName":"测试数据",
+                             "introduction":"产品棒棒的"
+                             },
+                             {
+                             "action": "http://app.jianke.com/zhuanti/wak-pjb/",
+                             "headImg": "https://ss0.baidu.com/-Po3dSag_xI4khGko9WTAnF6hhy/super/whfpf%3D425%2C260%2C50/sign=a41eb338dd33c895a62bcb3bb72e47c2/5fdf8db1cb134954a2192ccb524e9258d1094a1e.jpg",
+                             "title" : "美食",
+                             "marketPrice":"6000",
+                             "productCode":"11308",
+                             "productImage":"http://img.jianke.net/upload/prodimage/201709/201797183120584.jpg",
+                             "productName":"测试数据",
+                             "introduction":"产品棒棒的"
+                             },
+                             {
+                             "action": "http://app.jianke.com/zhuanti/wak-pjb/",
+                             "headImg": "http://c.hiphotos.baidu.com/image/w%3D400/sign=c2318ff84334970a4773112fa5c8d1c0/b7fd5266d0160924c1fae5ccd60735fae7cd340d.jpg",
+                             "title" : "美食",
+                             "marketPrice":"6000",
+                             "productCode":"11308",
+                             "productImage":"http://img.jianke.net/upload/prodimage/201709/201797183120584.jpg",
+                             "productName":"测试数据",
+                             "introduction":"产品棒棒的"
+                             }
+                             ]
+                   },
+                   {
+                   "floorBgColor": "",
+                   "floorBgImg": "http: //img.mbp.jianke.com/522c7e2dd8dd2a484f3292c0bcce4cc5?q=",
+                   "floorBottomMargin": "0",
+                   "floorTemplateName": "BannerCell",
+                   "rooms": [
+                             {
+                             "action": "camel://category",
+                             "headImg": "http://pic41.nipic.com/20140512/3631758_132919144343_2.jpg",
+                             "title" : "美食",
+                             "marketPrice":"6000",
+                             "productCode":"11308",
+                             "productImage":"http://img.jianke.net/upload/prodimage/201709/201797183120584.jpg",
+                             "productName":"测试数据",
+                             "introduction":"产品棒棒的"
+                             }
+                             ]
+                   },
+                   {
+                   "floorBgColor": "",
+                   "floorBgImg": "http: //img.mbp.jianke.com/522c7e2dd8dd2a484f3292c0bcce4cc5?q=",
+                   "floorBottomMargin": "0",
+                   "floorTemplateName": "MenuCell",
+                   "rooms": [
+                             {
+                             "action": "camel://category",
+                             "headImg": "http://pic41.nipic.com/20140512/3631758_132919144343_2.jpg",
+                             "title" : "美食",
+                             "marketPrice":"6000",
+                             "productCode":"11308",
+                             "productImage":"http://img.jianke.net/upload/prodimage/201709/201797183120584.jpg",
+                             "productName":"测试数据",
+                             "introduction":"产品棒棒的"
+                             },
+                             {
+                             "action": "camel:category",
+                             "headImg": "http://pic41.nipic.com/20140512/3631758_132919144343_2.jpg",
+                             "title" : "母婴",
+                             "marketPrice":"6000",
+                             "productCode":"11308",
+                             "productImage":"http://img.jianke.net/upload/prodimage/201709/201797183120584.jpg",
+                             "productName":"测试数据",
+                             "introduction":"产品棒棒的"
+                             },
+                             {
+                             "action": "http://app.jianke.com/zhuanti/wak-pjb/",
+                             "headImg": "http://pic41.nipic.com/20140512/3631758_132919144343_2.jpg",
+                             "title" : "美妆",
+                             "marketPrice":"6000",
+                             "productCode":"11308",
+                             "productImage":"http://img.jianke.net/upload/prodimage/201709/201797183120584.jpg",
+                             "productName":"测试数据",
+                             "introduction":"产品棒棒的"
+                             },
+                             {
+                             "action": "http://app.jianke.com/zhuanti/wak-pjb/",
+                             "headImg": "http://pic41.nipic.com/20140512/3631758_132919144343_2.jpg",
+                             "title" : "健康生活",
+                             "marketPrice":"6000",
+                             "productCode":"11308",
+                             "productImage":"http://img.jianke.net/upload/prodimage/201709/201797183120584.jpg",
+                             "productName":"测试数据",
+                             "introduction":"产品棒棒的"
+                             }
+                             ]
+                   },
+                   {
+                   "floorBgColor": "",
+                   "floorBgImg": "http: //img.mbp.jianke.com/522c7e2dd8dd2a484f3292c0bcce4cc5?q=",
+                   "floorBottomMargin": "0",
+                   "floorTemplateName": "BannerCell",
+                   "rooms": [
+                             {
+                             "action": "http://app.jianke.com/zhuanti/wak-pjb/",
+                             "headImg": "https://ss2.baidu.com/-vo3dSag_xI4khGko9WTAnF6hhy/super/whfpf%3D425%2C260%2C50/sign=a4b3d7085dee3d6d2293d48b252b5910/0e2442a7d933c89524cd5cd4d51373f0830200ea.jpg",
+                             "title" : "美食",
+                             "marketPrice":"6000",
+                             "productCode":"11308",
+                             "productImage":"http://img.jianke.net/upload/prodimage/201709/201797183120584.jpg",
+                             "productName":"测试数据",
+                             "introduction":"产品棒棒的"
+                             },
+                             {
+                             "action": "http://app.jianke.com/zhuanti/wak-pjb/",
+                             "headImg": "http://pic41.nipic.com/20140512/3631758_132919144343_2.jpg",
+                             "title" : "母婴",
+                             "marketPrice":"6000",
+                             "productCode":"11308",
+                             "productImage":"http://img.jianke.net/upload/prodimage/201709/201797183120584.jpg",
+                             "productName":"测试数据",
+                             "introduction":"产品棒棒的"
+                             },
+                             {
+                             "action": "http://app.jianke.com/zhuanti/wak-pjb/",
+                             "headImg": "https://ss0.baidu.com/-Po3dSag_xI4khGko9WTAnF6hhy/super/whfpf%3D425%2C260%2C50/sign=a41eb338dd33c895a62bcb3bb72e47c2/5fdf8db1cb134954a2192ccb524e9258d1094a1e.jpg",
+                             "title" : "美妆",
+                             "marketPrice":"6000",
+                             "productCode":"11308",
+                             "productImage":"http://img.jianke.net/upload/prodimage/201709/201797183120584.jpg",
+                             "productName":"测试数据",
+                             "introduction":"产品棒棒的"
+                             },
+                             {
+                             "action": "http://app.jianke.com/zhuanti/wak-pjb/",
+                             "headImg": "https://ss0.baidu.com/-Po3dSag_xI4khGko9WTAnF6hhy/super/whfpf%3D425%2C260%2C50/sign=a41eb338dd33c895a62bcb3bb72e47c2/5fdf8db1cb134954a2192ccb524e9258d1094a1e.jpg",
+                             "title" : "健康生活",
+                             "marketPrice":"6000",
+                             "productCode":"11308",
+                             "productImage":"http://img.jianke.net/upload/prodimage/201709/201797183120584.jpg",
+                             "productName":"测试数据",
+                             "introduction":"产品棒棒的"
+                             }
+                             ]
+                   },
+                   {
+                   "floorBgColor": "",
+                   "floorBgImg": "http: //img.mbp.jianke.com/522c7e2dd8dd2a484f3292c0bcce4cc5?q=",
+                   "floorBottomMargin": "0",
+                   "floorTemplateName": "HomePageRowNColCell",
+                   "rooms": [
+                             {
+                             "action": "http://app.jianke.com/zhuanti/wak-pjb/",
+                             "headImg": "https://ss2.baidu.com/-vo3dSag_xI4khGko9WTAnF6hhy/super/whfpf%3D425%2C260%2C50/sign=a4b3d7085dee3d6d2293d48b252b5910/0e2442a7d933c89524cd5cd4d51373f0830200ea.jpg",
+                             "title" : "美食",
+                             "marketPrice":"6000",
+                             "productCode":"11308",
+                             "productImage":"http://img.jianke.net/upload/prodimage/201709/201797183120584.jpg",
+                             "productName":"测试数据",
+                             "introduction":"产品棒棒的"
+                             },
+                             {
+                             "action": "http://app.jianke.com/zhuanti/wak-pjb/",
+                             "headImg": "http://pic41.nipic.com/20140512/3631758_132919144343_2.jpg",
+                             "title" : "母婴",
+                             "marketPrice":"6000",
+                             "productCode":"11308",
+                             "productImage":"http://img.jianke.net/upload/prodimage/201709/201797183120584.jpg",
+                             "productName":"测试数据",
+                             "introduction":"产品棒棒的"
+                             },
+                             {
+                             "action": "http://app.jianke.com/zhuanti/wak-pjb/",
+                             "headImg": "https://ss0.baidu.com/-Po3dSag_xI4khGko9WTAnF6hhy/super/whfpf%3D425%2C260%2C50/sign=a41eb338dd33c895a62bcb3bb72e47c2/5fdf8db1cb134954a2192ccb524e9258d1094a1e.jpg",
+                             "title" : "美妆",
+                             "marketPrice":"6000",
+                             "productCode":"11308",
+                             "productImage":"http://img.jianke.net/upload/prodimage/201709/201797183120584.jpg",
+                             "productName":"测试数据",
+                             "introduction":"产品棒棒的"
+                             },
+                             {
+                             "action": "http://app.jianke.com/zhuanti/wak-pjb/",
+                             "headImg": "https://ss0.baidu.com/-Po3dSag_xI4khGko9WTAnF6hhy/super/whfpf%3D425%2C260%2C50/sign=a41eb338dd33c895a62bcb3bb72e47c2/5fdf8db1cb134954a2192ccb524e9258d1094a1e.jpg",
+                             "title" : "健康生活",
+                             "marketPrice":"6000",
+                             "productCode":"11308",
+                             "productImage":"http://img.jianke.net/upload/prodimage/201709/201797183120584.jpg",
+                             "productName":"测试数据",
+                             "introduction":"产品棒棒的"
+                             },
+                             {
+                             "action": "http://app.jianke.com/zhuanti/wak-pjb/",
+                             "headImg": "https://ss2.baidu.com/-vo3dSag_xI4khGko9WTAnF6hhy/super/whfpf%3D425%2C260%2C50/sign=a4b3d7085dee3d6d2293d48b252b5910/0e2442a7d933c89524cd5cd4d51373f0830200ea.jpg",
+                             "title" : "美食",
+                             "marketPrice":"6000",
+                             "productCode":"11308",
+                             "productImage":"http://img.jianke.net/upload/prodimage/201709/201797183120584.jpg",
+                             "productName":"测试数据",
+                             "introduction":"产品棒棒的"
+                             },
+                             {
+                             "action": "http://app.jianke.com/zhuanti/wak-pjb/",
+                             "headImg": "http://pic41.nipic.com/20140512/3631758_132919144343_2.jpg",
+                             "title" : "母婴",
+                             "marketPrice":"6000",
+                             "productCode":"11308",
+                             "productImage":"http://img.jianke.net/upload/prodimage/201709/201797183120584.jpg",
+                             "productName":"测试数据",
+                             "introduction":"产品棒棒的"
+                             },
+                             {
+                             "action": "http://app.jianke.com/zhuanti/wak-pjb/",
+                             "headImg": "https://ss0.baidu.com/-Po3dSag_xI4khGko9WTAnF6hhy/super/whfpf%3D425%2C260%2C50/sign=a41eb338dd33c895a62bcb3bb72e47c2/5fdf8db1cb134954a2192ccb524e9258d1094a1e.jpg",
+                             "title" : "美妆",
+                             "marketPrice":"6000",
+                             "productCode":"11308",
+                             "productImage":"http://img.jianke.net/upload/prodimage/201709/201797183120584.jpg",
+                             "productName":"测试数据",
+                             "introduction":"产品棒棒的"
+                             },
+                             {
+                             "action": "http://app.jianke.com/zhuanti/wak-pjb/",
+                             "headImg": "https://ss0.baidu.com/-Po3dSag_xI4khGko9WTAnF6hhy/super/whfpf%3D425%2C260%2C50/sign=a41eb338dd33c895a62bcb3bb72e47c2/5fdf8db1cb134954a2192ccb524e9258d1094a1e.jpg",
+                             "title" : "健康生活",
+                             "marketPrice":"6000",
+                             "productCode":"11308",
+                             "productImage":"http://img.jianke.net/upload/prodimage/201709/201797183120584.jpg",
+                             "productName":"测试数据",
+                             "introduction":"产品棒棒的"
+                             }
+                             ]
+                   },
+                   {
+                   "floorBgColor": "",
+                   "floorBgImg": "http: //img.mbp.jianke.com/522c7e2dd8dd2a484f3292c0bcce4cc5?q=",
+                   "floorBottomMargin": "0",
+                   "floorTemplateName": "BannerCell",
+                   "rooms": [
+                             {
+                             "action": "http://app.jianke.com/zhuanti/wak-pjb/",
+                             "headImg": "https://ss2.baidu.com/-vo3dSag_xI4khGko9WTAnF6hhy/super/whfpf%3D425%2C260%2C50/sign=a4b3d7085dee3d6d2293d48b252b5910/0e2442a7d933c89524cd5cd4d51373f0830200ea.jpg",
+                             "title" : "美食",
+                             "marketPrice":"6000",
+                             "productCode":"11308",
+                             "productImage":"http://img.jianke.net/upload/prodimage/201709/201797183120584.jpg",
+                             "productName":"测试数据",
+                             "introduction":"产品棒棒的"
+                             },
+                             {
+                             "action": "http://app.jianke.com/zhuanti/wak-pjb/",
+                             "headImg": "http://pic41.nipic.com/20140512/3631758_132919144343_2.jpg",
+                             "title" : "母婴",
+                             "marketPrice":"6000",
+                             "productCode":"11308",
+                             "productImage":"http://img.jianke.net/upload/prodimage/201709/201797183120584.jpg",
+                             "productName":"测试数据",
+                             "introduction":"产品棒棒的"
+                             },
+                             {
+                             "action": "http://app.jianke.com/zhuanti/wak-pjb/",
+                             "headImg": "https://ss0.baidu.com/-Po3dSag_xI4khGko9WTAnF6hhy/super/whfpf%3D425%2C260%2C50/sign=a41eb338dd33c895a62bcb3bb72e47c2/5fdf8db1cb134954a2192ccb524e9258d1094a1e.jpg",
+                             "title" : "美妆",
+                             "marketPrice":"6000",
+                             "productCode":"11308",
+                             "productImage":"http://img.jianke.net/upload/prodimage/201709/201797183120584.jpg",
+                             "productName":"测试数据",
+                             "introduction":"产品棒棒的"
+                             },
+                             {
+                             "action": "http://app.jianke.com/zhuanti/wak-pjb/",
+                             "headImg": "https://ss0.baidu.com/-Po3dSag_xI4khGko9WTAnF6hhy/super/whfpf%3D425%2C260%2C50/sign=a41eb338dd33c895a62bcb3bb72e47c2/5fdf8db1cb134954a2192ccb524e9258d1094a1e.jpg",
+                             "title" : "健康生活",
+                             "marketPrice":"6000",
+                             "productCode":"11308",
+                             "productImage":"http://img.jianke.net/upload/prodimage/201709/201797183120584.jpg",
+                             "productName":"测试数据",
+                             "introduction":"产品棒棒的"
+                             }
+                             ]
+                   },
+                   {
+                   "floorBgColor": "",
+                   "floorBgImg": "http: //img.mbp.jianke.com/522c7e2dd8dd2a484f3292c0bcce4cc5?q=",
+                   "floorBottomMargin": "0",
+                   "floorTemplateName": "HomePageRowNColCell",
+                   "rooms": [
+                             {
+                             "action": "http://app.jianke.com/zhuanti/wak-pjb/",
+                             "headImg": "https://ss2.baidu.com/-vo3dSag_xI4khGko9WTAnF6hhy/super/whfpf%3D425%2C260%2C50/sign=a4b3d7085dee3d6d2293d48b252b5910/0e2442a7d933c89524cd5cd4d51373f0830200ea.jpg",
+                             "title" : "美食",
+                             "marketPrice":"6000",
+                             "productCode":"11308",
+                             "productImage":"http://img.jianke.net/upload/prodimage/201709/201797183120584.jpg",
+                             "productName":"测试数据",
+                             "introduction":"产品棒棒的"
+                             },
+                             {
+                             "action": "http://app.jianke.com/zhuanti/wak-pjb/",
+                             "headImg": "http://pic41.nipic.com/20140512/3631758_132919144343_2.jpg",
+                             "title" : "母婴",
+                             "marketPrice":"6000",
+                             "productCode":"11308",
+                             "productImage":"http://img.jianke.net/upload/prodimage/201709/201797183120584.jpg",
+                             "productName":"测试数据",
+                             "introduction":"产品棒棒的"
+                             },
+                             {
+                             "action": "http://app.jianke.com/zhuanti/wak-pjb/",
+                             "headImg": "https://ss0.baidu.com/-Po3dSag_xI4khGko9WTAnF6hhy/super/whfpf%3D425%2C260%2C50/sign=a41eb338dd33c895a62bcb3bb72e47c2/5fdf8db1cb134954a2192ccb524e9258d1094a1e.jpg",
+                             "title" : "美妆",
+                             "marketPrice":"6000",
+                             "productCode":"11308",
+                             "productImage":"http://img.jianke.net/upload/prodimage/201709/201797183120584.jpg",
+                             "productName":"测试数据",
+                             "introduction":"产品棒棒的"
+                             },
+                             {
+                             "action": "http://app.jianke.com/zhuanti/wak-pjb/",
+                             "headImg": "https://ss0.baidu.com/-Po3dSag_xI4khGko9WTAnF6hhy/super/whfpf%3D425%2C260%2C50/sign=a41eb338dd33c895a62bcb3bb72e47c2/5fdf8db1cb134954a2192ccb524e9258d1094a1e.jpg",
+                             "title" : "健康生活",
+                             "marketPrice":"6000",
+                             "productCode":"11308",
+                             "productImage":"http://img.jianke.net/upload/prodimage/201709/201797183120584.jpg",
+                             "productName":"测试数据",
+                             "introduction":"产品棒棒的"
+                             },
+                             {
+                             "action": "http://app.jianke.com/zhuanti/wak-pjb/",
+                             "headImg": "https://ss2.baidu.com/-vo3dSag_xI4khGko9WTAnF6hhy/super/whfpf%3D425%2C260%2C50/sign=a4b3d7085dee3d6d2293d48b252b5910/0e2442a7d933c89524cd5cd4d51373f0830200ea.jpg",
+                             "title" : "美食",
+                             "marketPrice":"6000",
+                             "productCode":"11308",
+                             "productImage":"http://img.jianke.net/upload/prodimage/201709/201797183120584.jpg",
+                             "productName":"测试数据",
+                             "introduction":"产品棒棒的"
+                             },
+                             {
+                             "action": "http://app.jianke.com/zhuanti/wak-pjb/",
+                             "headImg": "http://pic41.nipic.com/20140512/3631758_132919144343_2.jpg",
+                             "title" : "母婴",
+                             "marketPrice":"6000",
+                             "productCode":"11308",
+                             "productImage":"http://img.jianke.net/upload/prodimage/201709/201797183120584.jpg",
+                             "productName":"测试数据",
+                             "introduction":"产品棒棒的"
+                             },
+                             {
+                             "action": "http://app.jianke.com/zhuanti/wak-pjb/",
+                             "headImg": "https://ss0.baidu.com/-Po3dSag_xI4khGko9WTAnF6hhy/super/whfpf%3D425%2C260%2C50/sign=a41eb338dd33c895a62bcb3bb72e47c2/5fdf8db1cb134954a2192ccb524e9258d1094a1e.jpg",
+                             "title" : "美妆",
+                             "marketPrice":"6000",
+                             "productCode":"11308",
+                             "productImage":"http://img.jianke.net/upload/prodimage/201709/201797183120584.jpg",
+                             "productName":"测试数据",
+                             "introduction":"产品棒棒的"
+                             },
+                             {
+                             "action": "http://app.jianke.com/zhuanti/wak-pjb/",
+                             "headImg": "https://ss0.baidu.com/-Po3dSag_xI4khGko9WTAnF6hhy/super/whfpf%3D425%2C260%2C50/sign=a41eb338dd33c895a62bcb3bb72e47c2/5fdf8db1cb134954a2192ccb524e9258d1094a1e.jpg",
+                             "title" : "健康生活",
+                             "marketPrice":"6000",
+                             "productCode":"11308",
+                             "productImage":"http://img.jianke.net/upload/prodimage/201709/201797183120584.jpg",
+                             "productName":"测试数据",
+                             "introduction":"产品棒棒的"
+                             }
+                             ]
+                   },
+                   {
+                   "floorBgColor": "",
+                   "floorBgImg": "http: //img.mbp.jianke.com/522c7e2dd8dd2a484f3292c0bcce4cc5?q=",
+                   "floorBottomMargin": "0",
+                   "floorTemplateName": "TitleCell",
+                   "title":"为你精选",
+                   "rooms": [
+                   
+                   ]
+                   },
+                   {
+                   "floorBgColor": "",
+                   "floorBgImg": "http: //img.mbp.jianke.com/522c7e2dd8dd2a484f3292c0bcce4cc5?q=",
+                   "floorBottomMargin": "0",
+                   "floorTemplateName": "RecommendCell",
+                   "rooms": [
+                             {
+                             "action": "http://app.jianke.com/zhuanti/wak-pjb/",
+                             "headImg": "https://ss2.baidu.com/-vo3dSag_xI4khGko9WTAnF6hhy/super/whfpf%3D425%2C260%2C50/sign=a4b3d7085dee3d6d2293d48b252b5910/0e2442a7d933c89524cd5cd4d51373f0830200ea.jpg",
+                             "title" : "美食",
+                             "marketPrice":"6000",
+                             "productCode":"11308",
+                             "productImage":"http://img.jianke.net/upload/prodimage/201709/201797183120584.jpg",
+                             "productName":"测试数据",
+                             "introduction":"产品棒棒的"
+                             },
+                             {
+                             "action": "http://app.jianke.com/zhuanti/wak-pjb/",
+                             "headImg": "http://pic41.nipic.com/20140512/3631758_132919144343_2.jpg",
+                             "title" : "母婴",
+                             "marketPrice":"6000",
+                             "productCode":"11308",
+                             "productImage":"http://img.jianke.net/upload/prodimage/201709/201797183120584.jpg",
+                             "productName":"测试数据",
+                             "introduction":"产品棒棒的"
+                             },
+                             {
+                             "action": "http://app.jianke.com/zhuanti/wak-pjb/",
+                             "headImg": "https://ss0.baidu.com/-Po3dSag_xI4khGko9WTAnF6hhy/super/whfpf%3D425%2C260%2C50/sign=a41eb338dd33c895a62bcb3bb72e47c2/5fdf8db1cb134954a2192ccb524e9258d1094a1e.jpg",
+                             "title" : "美妆",
+                             "marketPrice":"6000",
+                             "productCode":"11308",
+                             "productImage":"http://img.jianke.net/upload/prodimage/201709/201797183120584.jpg",
+                             "productName":"测试数据",
+                             "introduction":"产品棒棒的"
+                             },
+                             {
+                             "action": "http://app.jianke.com/zhuanti/wak-pjb/",
+                             "headImg": "https://ss0.baidu.com/-Po3dSag_xI4khGko9WTAnF6hhy/super/whfpf%3D425%2C260%2C50/sign=a41eb338dd33c895a62bcb3bb72e47c2/5fdf8db1cb134954a2192ccb524e9258d1094a1e.jpg",
+                             "title" : "健康生活",
+                             "marketPrice":"6000",
+                             "productCode":"11308",
+                             "productImage":"http://img.jianke.net/upload/prodimage/201709/201797183120584.jpg",
+                             "productName":"测试数据",
+                             "introduction":"产品棒棒的"
+                             },
+                             {
+                             "action": "http://app.jianke.com/zhuanti/wak-pjb/",
+                             "headImg": "https://ss2.baidu.com/-vo3dSag_xI4khGko9WTAnF6hhy/super/whfpf%3D425%2C260%2C50/sign=a4b3d7085dee3d6d2293d48b252b5910/0e2442a7d933c89524cd5cd4d51373f0830200ea.jpg",
+                             "title" : "美食",
+                             "marketPrice":"6000",
+                             "productCode":"11308",
+                             "productImage":"http://img.jianke.net/upload/prodimage/201709/201797183120584.jpg",
+                             "productName":"测试数据",
+                             "introduction":"产品棒棒的"
+                             },
+                             {
+                             "action": "http://app.jianke.com/zhuanti/wak-pjb/",
+                             "headImg": "http://pic41.nipic.com/20140512/3631758_132919144343_2.jpg",
+                             "title" : "母婴",
+                             "marketPrice":"6000",
+                             "productCode":"11308",
+                             "productImage":"http://img.jianke.net/upload/prodimage/201709/201797183120584.jpg",
+                             "productName":"测试数据",
+                             "introduction":"产品棒棒的"
+                             },
+                             {
+                             "action": "http://app.jianke.com/zhuanti/wak-pjb/",
+                             "headImg": "https://ss0.baidu.com/-Po3dSag_xI4khGko9WTAnF6hhy/super/whfpf%3D425%2C260%2C50/sign=a41eb338dd33c895a62bcb3bb72e47c2/5fdf8db1cb134954a2192ccb524e9258d1094a1e.jpg",
+                             "title" : "美妆",
+                             "marketPrice":"6000",
+                             "productCode":"11308",
+                             "productImage":"http://img.jianke.net/upload/prodimage/201709/201797183120584.jpg",
+                             "productName":"测试数据",
+                             "introduction":"产品棒棒的"
+                             },
+                             {
+                             "action": "http://app.jianke.com/zhuanti/wak-pjb/",
+                             "headImg": "https://ss0.baidu.com/-Po3dSag_xI4khGko9WTAnF6hhy/super/whfpf%3D425%2C260%2C50/sign=a41eb338dd33c895a62bcb3bb72e47c2/5fdf8db1cb134954a2192ccb524e9258d1094a1e.jpg",
+                             "title" : "健康生活",
+                             "marketPrice":"6000",
+                             "productCode":"11308",
+                             "productImage":"http://img.jianke.net/upload/prodimage/201709/201797183120584.jpg",
+                             "productName":"测试数据",
+                             "introduction":"产品棒棒的"
+                             },
+                             {
+                             "action": "http://app.jianke.com/zhuanti/wak-pjb/",
+                             "headImg": "https://ss2.baidu.com/-vo3dSag_xI4khGko9WTAnF6hhy/super/whfpf%3D425%2C260%2C50/sign=a4b3d7085dee3d6d2293d48b252b5910/0e2442a7d933c89524cd5cd4d51373f0830200ea.jpg",
+                             "title" : "美食",
+                             "marketPrice":"6000",
+                             "productCode":"11308",
+                             "productImage":"http://img.jianke.net/upload/prodimage/201709/201797183120584.jpg",
+                             "productName":"测试数据",
+                             "introduction":"产品棒棒的"
+                             },
+                             {
+                             "action": "http://app.jianke.com/zhuanti/wak-pjb/",
+                             "headImg": "http://pic41.nipic.com/20140512/3631758_132919144343_2.jpg",
+                             "title" : "母婴",
+                             "marketPrice":"6000",
+                             "productCode":"11308",
+                             "productImage":"http://img.jianke.net/upload/prodimage/201709/201797183120584.jpg",
+                             "productName":"测试数据",
+                             "introduction":"产品棒棒的"
+                             },
+                             {
+                             "action": "http://app.jianke.com/zhuanti/wak-pjb/",
+                             "headImg": "https://ss0.baidu.com/-Po3dSag_xI4khGko9WTAnF6hhy/super/whfpf%3D425%2C260%2C50/sign=a41eb338dd33c895a62bcb3bb72e47c2/5fdf8db1cb134954a2192ccb524e9258d1094a1e.jpg",
+                             "title" : "美妆",
+                             "marketPrice":"6000",
+                             "productCode":"11308",
+                             "productImage":"http://img.jianke.net/upload/prodimage/201709/201797183120584.jpg",
+                             "productName":"测试数据",
+                             "introduction":"产品棒棒的"
+                             },
+                             {
+                             "action": "http://app.jianke.com/zhuanti/wak-pjb/",
+                             "headImg": "https://ss0.baidu.com/-Po3dSag_xI4khGko9WTAnF6hhy/super/whfpf%3D425%2C260%2C50/sign=a41eb338dd33c895a62bcb3bb72e47c2/5fdf8db1cb134954a2192ccb524e9258d1094a1e.jpg",
+                             "title" : "健康生活",
+                             "marketPrice":"6000",
+                             "productCode":"11308",
+                             "productImage":"http://img.jianke.net/upload/prodimage/201709/201797183120584.jpg",
+                             "productName":"测试数据",
+                             "introduction":"产品棒棒的"
+                             },
+                             {
+                             "action": "http://app.jianke.com/zhuanti/wak-pjb/",
+                             "headImg": "https://ss2.baidu.com/-vo3dSag_xI4khGko9WTAnF6hhy/super/whfpf%3D425%2C260%2C50/sign=a4b3d7085dee3d6d2293d48b252b5910/0e2442a7d933c89524cd5cd4d51373f0830200ea.jpg",
+                             "title" : "美食",
+                             "marketPrice":"6000",
+                             "productCode":"11308",
+                             "productImage":"http://img.jianke.net/upload/prodimage/201709/201797183120584.jpg",
+                             "productName":"测试数据",
+                             "introduction":"产品棒棒的"
+                             },
+                             {
+                             "action": "http://app.jianke.com/zhuanti/wak-pjb/",
+                             "headImg": "http://pic41.nipic.com/20140512/3631758_132919144343_2.jpg",
+                             "title" : "母婴",
+                             "marketPrice":"6000",
+                             "productCode":"11308",
+                             "productImage":"http://img.jianke.net/upload/prodimage/201709/201797183120584.jpg",
+                             "productName":"测试数据",
+                             "introduction":"产品棒棒的"
+                             },
+                             {
+                             "action": "http://app.jianke.com/zhuanti/wak-pjb/",
+                             "headImg": "https://ss0.baidu.com/-Po3dSag_xI4khGko9WTAnF6hhy/super/whfpf%3D425%2C260%2C50/sign=a41eb338dd33c895a62bcb3bb72e47c2/5fdf8db1cb134954a2192ccb524e9258d1094a1e.jpg",
+                             "title" : "美妆",
+                             "marketPrice":"6000",
+                             "productCode":"11308",
+                             "productImage":"http://img.jianke.net/upload/prodimage/201709/201797183120584.jpg",
+                             "productName":"测试数据",
+                             "introduction":"产品棒棒的"
+                             },
+                             {
+                             "action": "http://app.jianke.com/zhuanti/wak-pjb/",
+                             "headImg": "https://ss0.baidu.com/-Po3dSag_xI4khGko9WTAnF6hhy/super/whfpf%3D425%2C260%2C50/sign=a41eb338dd33c895a62bcb3bb72e47c2/5fdf8db1cb134954a2192ccb524e9258d1094a1e.jpg",
+                             "title" : "健康生活",
+                             "marketPrice":"6000",
+                             "productCode":"11308",
+                             "productImage":"http://img.jianke.net/upload/prodimage/201709/201797183120584.jpg",
+                             "productName":"测试数据",
+                             "introduction":"产品棒棒的"
+                             },
+                             {
+                             "action": "http://app.jianke.com/zhuanti/wak-pjb/",
+                             "headImg": "https://ss2.baidu.com/-vo3dSag_xI4khGko9WTAnF6hhy/super/whfpf%3D425%2C260%2C50/sign=a4b3d7085dee3d6d2293d48b252b5910/0e2442a7d933c89524cd5cd4d51373f0830200ea.jpg",
+                             "title" : "美食",
+                             "marketPrice":"6000",
+                             "productCode":"11308",
+                             "productImage":"http://img.jianke.net/upload/prodimage/201709/201797183120584.jpg",
+                             "productName":"测试数据",
+                             "introduction":"产品棒棒的"
+                             },
+                             {
+                             "action": "http://app.jianke.com/zhuanti/wak-pjb/",
+                             "headImg": "http://pic41.nipic.com/20140512/3631758_132919144343_2.jpg",
+                             "title" : "母婴",
+                             "marketPrice":"6000",
+                             "productCode":"11308",
+                             "productImage":"http://img.jianke.net/upload/prodimage/201709/201797183120584.jpg",
+                             "productName":"测试数据",
+                             "introduction":"产品棒棒的"
+                             },
+                             {
+                             "action": "http://app.jianke.com/zhuanti/wak-pjb/",
+                             "headImg": "https://ss0.baidu.com/-Po3dSag_xI4khGko9WTAnF6hhy/super/whfpf%3D425%2C260%2C50/sign=a41eb338dd33c895a62bcb3bb72e47c2/5fdf8db1cb134954a2192ccb524e9258d1094a1e.jpg",
+                             "title" : "美妆",
+                             "marketPrice":"6000",
+                             "productCode":"11308",
+                             "productImage":"http://img.jianke.net/upload/prodimage/201709/201797183120584.jpg",
+                             "productName":"测试数据",
+                             "introduction":"产品棒棒的"
+                             },
+                             {
+                             "action": "http://app.jianke.com/zhuanti/wak-pjb/",
+                             "headImg": "https://ss0.baidu.com/-Po3dSag_xI4khGko9WTAnF6hhy/super/whfpf%3D425%2C260%2C50/sign=a41eb338dd33c895a62bcb3bb72e47c2/5fdf8db1cb134954a2192ccb524e9258d1094a1e.jpg",
+                             "title" : "健康生活",
+                             "marketPrice":"6000",
+                             "productCode":"11308",
+                             "productImage":"http://img.jianke.net/upload/prodimage/201709/201797183120584.jpg",
+                             "productName":"测试数据",
+                             "introduction":"产品棒棒的"
+                             }
+                             ]
+                   }
+                   ]
+    }
+}
+
+

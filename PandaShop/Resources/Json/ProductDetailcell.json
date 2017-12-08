@@ -1,0 +1,24 @@
+{
+    "LTIntroductCell" : {
+        "xib":"LTIntroductCell",
+        "identifier":"LTIntroductCell",
+        "width" : 640,
+        "height" : 128,
+        "fixable": false
+    },
+    "LTPackingCell" : {
+        "xib":"LTPackingCell",
+        "identifier":"LTPackingCell",
+        "width" : 640,
+        "height" : 290,
+        "fixable": false
+    },
+    "LTProductImageCell" : {
+        "xib":"LTProductImageCell",
+        "identifier":"LTProductImageCell",
+        "width" : 640,
+        "height" : 290,
+        "fixable": false
+    }
+    
+}

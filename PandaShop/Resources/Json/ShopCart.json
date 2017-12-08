@@ -1,0 +1,59 @@
+{
+    "data":{
+        "totalCost":"10000",
+        "productList":[
+                       {
+                       "sectionTitle":"仓库1",
+                       "product":[
+                                  {
+                                  "productImageUrl":"https://ss2.baidu.com/-vo3dSag_xI4khGko9WTAnF6hhy/super/whfpf%3D425%2C260%2C50/sign=a4b3d7085dee3d6d2293d48b252b5910/0e2442a7d933c89524cd5cd4d51373f0830200ea.jpg",
+                                  "size":"款式:XS 香槟色",
+                                  "price":"10000",
+                                  "productName":"让世界更加美好",
+                                  "number":"3"
+                                  },
+                                  {
+                                  "productImageUrl":"https://ss2.baidu.com/-vo3dSag_xI4khGko9WTAnF6hhy/super/whfpf%3D425%2C260%2C50/sign=a4b3d7085dee3d6d2293d48b252b5910/0e2442a7d933c89524cd5cd4d51373f0830200ea.jpg",
+                                  "size":"款式:XS 香槟色",
+                                  "price":"10000",
+                                  "productName":"让世界更加美好",
+                                  "number":"3"
+                                  },
+                                  {
+                                  "productImageUrl":"https://ss2.baidu.com/-vo3dSag_xI4khGko9WTAnF6hhy/super/whfpf%3D425%2C260%2C50/sign=a4b3d7085dee3d6d2293d48b252b5910/0e2442a7d933c89524cd5cd4d51373f0830200ea.jpg",
+                                  "size":"款式:XS 香槟色",
+                                  "price":"10000",
+                                  "productName":"让世界更加美好",
+                                  "number":"3"
+                                  }
+                                  ]
+                       },
+                       {
+                       "sectionTitle":"仓库2",
+                       "product":[
+                                  {
+                                  "productImageUrl":"https://ss2.baidu.com/-vo3dSag_xI4khGko9WTAnF6hhy/super/whfpf%3D425%2C260%2C50/sign=a4b3d7085dee3d6d2293d48b252b5910/0e2442a7d933c89524cd5cd4d51373f0830200ea.jpg",
+                                  "size":"款式:XS 香槟色",
+                                  "price":"10000",
+                                  "productName":"让世界更加美好",
+                                  "number":"3"
+                                  },
+                                  {
+                                  "productImageUrl":"https://ss2.baidu.com/-vo3dSag_xI4khGko9WTAnF6hhy/super/whfpf%3D425%2C260%2C50/sign=a4b3d7085dee3d6d2293d48b252b5910/0e2442a7d933c89524cd5cd4d51373f0830200ea.jpg",
+                                  "size":"款式:XS 香槟色",
+                                  "price":"10000",
+                                  "productName":"让世界更加美好",
+                                  "number":"3"
+                                  },
+                                  {
+                                  "productImageUrl":"https://ss2.baidu.com/-vo3dSag_xI4khGko9WTAnF6hhy/super/whfpf%3D425%2C260%2C50/sign=a4b3d7085dee3d6d2293d48b252b5910/0e2442a7d933c89524cd5cd4d51373f0830200ea.jpg",
+                                  "size":"款式:XS 香槟色",
+                                  "price":"10000",
+                                  "productName":"让世界更加美好",
+                                  "number":"3"
+                                  }
+                                  ]
+                       }
+                       ]
+    }
+}

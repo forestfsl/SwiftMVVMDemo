@@ -1,0 +1,45 @@
+{
+    "LTVipCell" : {
+        "xib":"LTVipCell",
+        "identifier":"LTVipCell",
+        "width" : 640,
+        "height" : 128,
+        "fixable": false
+    },
+    "LTMenuCell" : {
+        "xib":"LTMenuCell",
+        "identifier":"LTMenuCell",
+        "width" : 640,
+        "height" : 290,
+        "fixable": false
+    },
+    "LTBannerCell" : {
+        "xib":"LTBannerCell",
+        "identifier":"LTBannerCell",
+        "width" : 640,
+        "height" : 290,
+        "fixable": false
+    },
+    "LTHomePageRowNColCell" : {
+        "xib":"LTHomePageRowNColCell",
+        "identifier":"LTHomePageRowNColCell",
+        "width" : 640,
+        "height" : 290,
+        "fixable": false
+    },
+    "LTRecommendCell" : {
+        "xib":"LTRecommendCell",
+        "identifier":"LTRecommendCell",
+        "width" : 640,
+        "height" : 290,
+        "fixable": false
+    },
+    "LTTitleCell" : {
+        "xib":"LTTitleCell",
+        "identifier":"LTTitleCell",
+        "width" : 640,
+        "height" : 290,
+        "fixable": false
+    }
+    
+}

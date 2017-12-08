@@ -1,0 +1,42 @@
+{
+    "data": {
+        "product": {
+            "productImage": "https://ss2.baidu.com/-vo3dSag_xI4khGko9WTAnF6hhy/super/whfpf%3D425%2C260%2C50/sign=a4b3d7085dee3d6d2293d48b252b5910/0e2442a7d933c89524cd5cd4d51373f0830200ea.jpg",
+            "priceRange": "178~222",
+            "productSize": [
+                            {
+                            "content": "XS"
+                            },
+                            {
+                            "content": "S"
+                            },
+                            {
+                            "content": "M"
+                            },
+                            {
+                            "content": "L"
+                            },
+                            {
+                            "content": "XL"
+                            },
+                            {
+                            "content": "XMML"
+                            }
+                            ],
+            "productColor": [
+                             {
+                             "content": "白色"
+                             },
+                             {
+                             "content": "红色"
+                             },
+                             {
+                             "content": "黄色"
+                             },
+                             {
+                             "content": "黑色色"
+                             }
+                             ]
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "tabbar_items": [
+                     {
+                     "page": "JKHomeViewController",
+                     "type": "home",
+                     "title": "首页",
+                     "normal_icon": "home_icon_normal",
+                     "normal_icon_select": "home_icon_select"
+                     },
+                     {
+                     "page": "JKCategoryViewController",
+                     "type": "category",
+                     "title": "分类",
+                     "normal_icon": "category_icon_normal",
+                     "normal_icon_select": "category_icon_select"
+                     },
+                     {
+                     "page": "JKShopCartViewController",
+                     "type": "shopCart",
+                     "title": "购物车",
+                     "normal_icon": "cart_icon_normal",
+                     "normal_icon_select": "cart_icon_select"
+                     },
+                     {
+                     "page": "JKMeViewController",
+                     "type": "me",
+                     "title": "我的",
+                     "normal_icon": "me_icon_normal",
+                     "normal_icon_select": "me_icon_select"
+                     }
+                     ]
+}

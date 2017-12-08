@@ -1,0 +1,54 @@
+{
+    "data": {
+        "floors": [
+                   {
+                   "carouselArray": [
+                              {
+                              "headImg": "https://ss2.baidu.com/-vo3dSag_xI4khGko9WTAnF6hhy/super/whfpf%3D425%2C260%2C50/sign=a4b3d7085dee3d6d2293d48b252b5910/0e2442a7d933c89524cd5cd4d51373f0830200ea.jpg",
+                              "action": "http://app.jianke.com/zhuanti/wak-pjb/"
+                              },
+                              {
+                              "headImg": "https://ss2.baidu.com/-vo3dSag_xI4khGko9WTAnF6hhy/super/whfpf%3D425%2C260%2C50/sign=a4b3d7085dee3d6d2293d48b252b5910/0e2442a7d933c89524cd5cd4d51373f0830200ea.jpg",
+                              "action": "http://app.jianke.com/zhuanti/wak-pjb/"
+                              },
+                              {
+                              "headImg": "https://ss2.baidu.com/-vo3dSag_xI4khGko9WTAnF6hhy/super/whfpf%3D425%2C260%2C50/sign=a4b3d7085dee3d6d2293d48b252b5910/0e2442a7d933c89524cd5cd4d51373f0830200ea.jpg",
+                              "action": "http://app.jianke.com/zhuanti/wak-pjb/"
+                              }
+                              ]
+                   },
+                   {
+                   "introduce": {
+                   "productPrice": "11",
+                   "introduce": "测试数据是测试数据车况还是富士康冯宋林冯宋林福建省冷风机",
+                   "briefText": "J硬盘推荐"
+                   }
+                   },
+                   {
+                   "packArray": [
+                                {
+                                "packing": "0.4g*54s",
+                                "productCode": "111"
+                                },
+                                {
+                                "packing": "0.4g*54s",
+                                "productCode": "111"
+                                },
+                                {
+                                "packing": "0.4g*54s",
+                                "productCode": "111"
+                                }
+                                ]
+                   },
+                   {
+                   "productImage": "https://ss2.baidu.com/-vo3dSag_xI4khGko9WTAnF6hhy/super/whfpf%3D425%2C260%2C50/sign=a4b3d7085dee3d6d2293d48b252b5910/0e2442a7d933c89524cd5cd4d51373f0830200ea.jpg"
+                   },
+                   {
+                   "productImage": "https://ss2.baidu.com/-vo3dSag_xI4khGko9WTAnF6hhy/super/whfpf%3D425%2C260%2C50/sign=a4b3d7085dee3d6d2293d48b252b5910/0e2442a7d933c89524cd5cd4d51373f0830200ea.jpg"
+                   },
+                   {
+                   "productImage": "https://ss2.baidu.com/-vo3dSag_xI4khGko9WTAnF6hhy/super/whfpf%3D425%2C260%2C50/sign=a4b3d7085dee3d6d2293d48b252b5910/0e2442a7d933c89524cd5cd4d51373f0830200ea.jpg"
+                   }
+                   ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "data": [
+             {
+             "categoryName": "热门搜索",
+             "firstCategoryID": "1"
+             },
+             {
+             "categoryName": "心血管科",
+             "firstCategoryID": "1"
+             },
+             {
+             "categoryName": "金品推荐",
+             "firstCategoryID": "1"
+             },
+             {
+             "categoryName": "男科用药",
+             "firstCategoryID": "1"
+             },{
+             "categoryName": "热门搜索",
+             "firstCategoryID": "1"
+             },
+             {
+             "categoryName": "热门搜索",
+             "firstCategoryID": "1"
+             }
+             ]
+}

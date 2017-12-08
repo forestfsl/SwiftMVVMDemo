@@ -1,0 +1,46 @@
+
+{
+    "data": [
+             {
+             "categoryName": "测试数据",
+             "firstCategoryID": "1",
+             "secondCategoryID": "2",
+             "categoryImage":"http://img.jianke.com/app/upload/nankeyongyao/ziyinbushen.jpg",
+             "imageUrl":"http://img.jianke.com/app/upload/nankeyongyao/ziyinbushen.jpg"
+             },
+             {
+             "categoryName": "测试数据",
+             "firstCategoryID": "1",
+             "secondCategoryID": "2",
+             "categoryImage":"http://img.jianke.com/app/upload/nankeyongyao/ziyinbushen.jpg",
+             "imageUrl":"http://img.jianke.com/app/upload/nankeyongyao/ziyinbushen.jpg"
+             },
+             {
+             "categoryName": "测试数据",
+             "firstCategoryID": "1",
+             "secondCategoryID": "2",
+             "categoryImage":"http://img.jianke.com/app/upload/nankeyongyao/ziyinbushen.jpg",
+             "imageUrl":"http://img.jianke.com/app/upload/nankeyongyao/ziyinbushen.jpg"
+             },
+             {
+             "categoryName": "测试数据",
+             "firstCategoryID": "1",
+             "secondCategoryID": "2",
+             "categoryImage":"http://img.jianke.com/app/upload/nankeyongyao/ziyinbushen.jpg",
+             "imageUrl":"http://img.jianke.com/app/upload/nankeyongyao/ziyinbushen.jpg"
+             },{
+             "categoryName": "测试数据",
+             "firstCategoryID": "1",
+             "secondCategoryID": "2",
+             "categoryImage":"http://img.jianke.com/app/upload/nankeyongyao/ziyinbushen.jpg",
+             "imageUrl":"http://img.jianke.com/app/upload/nankeyongyao/ziyinbushen.jpg"
+             },
+             {
+             "categoryName": "测试数据",
+             "firstCategoryID": "1",
+             "secondCategoryID": "2",
+             "categoryImage":"http://img.jianke.com/app/upload/nankeyongyao/ziyinbushen.jpg",
+             "imageUrl":"http://img.jianke.com/app/upload/nankeyongyao/ziyinbushen.jpg"
+             }
+             ]
+}
