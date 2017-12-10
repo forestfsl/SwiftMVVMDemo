@@ -21,6 +21,25 @@
 		0799AEF41FDA6E26002B05DB /* RecommendItemCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0799AEF31FDA6E26002B05DB /* RecommendItemCell.xib */; };
 		0799AEF61FDA6E31002B05DB /* RecommendCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0799AEF51FDA6E31002B05DB /* RecommendCell.swift */; };
 		0799AEF81FDA6E77002B05DB /* RecommendItemCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0799AEF71FDA6E77002B05DB /* RecommendItemCell.swift */; };
+		0799AEFB1FDAA0D9002B05DB /* UserHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0799AEFA1FDAA0D9002B05DB /* UserHeaderView.swift */; };
+		0799AEFD1FDAA104002B05DB /* BaseView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0799AEFC1FDAA104002B05DB /* BaseView.swift */; };
+		0799AEFF1FDBC09D002B05DB /* me.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0799AEFE1FDBC09D002B05DB /* me.storyboard */; };
+		0799AF031FDBD017002B05DB /* AddressVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0799AF021FDBD017002B05DB /* AddressVC.swift */; };
+		0799AF051FDBD03D002B05DB /* AddressDetailVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0799AF041FDBD03D002B05DB /* AddressDetailVC.swift */; };
+		0799AF071FDBD06E002B05DB /* LogisticsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0799AF061FDBD06E002B05DB /* LogisticsVC.swift */; };
+		0799AF091FDBD0DB002B05DB /* OrderDetailVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0799AF081FDBD0DB002B05DB /* OrderDetailVC.swift */; };
+		0799AF0B1FDBD107002B05DB /* OrderCompleteVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0799AF0A1FDBD107002B05DB /* OrderCompleteVC.swift */; };
+		0799AF0D1FDBD139002B05DB /* SettingVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0799AF0C1FDBD139002B05DB /* SettingVC.swift */; };
+		0799AF0F1FDBD295002B05DB /* LoginVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0799AF0E1FDBD295002B05DB /* LoginVC.swift */; };
+		0799AF111FDBD2DE002B05DB /* RegisterVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0799AF101FDBD2DE002B05DB /* RegisterVC.swift */; };
+		0799AF131FDBD312002B05DB /* RegisterCompleteVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0799AF121FDBD312002B05DB /* RegisterCompleteVC.swift */; };
+		0799AF151FDBD925002B05DB /* VerifyCodeLoginVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0799AF141FDBD925002B05DB /* VerifyCodeLoginVC.swift */; };
+		0799AF171FDBD962002B05DB /* ForgetPasswordVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0799AF161FDBD962002B05DB /* ForgetPasswordVC.swift */; };
+		0799AF191FDBD994002B05DB /* ResetPasswordVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0799AF181FDBD994002B05DB /* ResetPasswordVC.swift */; };
+		0799AF1B1FDBDA49002B05DB /* AboutUS.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0799AF1A1FDBDA49002B05DB /* AboutUS.swift */; };
+		0799AF1D1FDBDAB9002B05DB /* QuestionVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0799AF1C1FDBDAB9002B05DB /* QuestionVC.swift */; };
+		0799AF1F1FDBDAE1002B05DB /* CollectionVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0799AF1E1FDBDAE1002B05DB /* CollectionVC.swift */; };
+		0799AF211FDD006D002B05DB /* SegmentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0799AF201FDD006D002B05DB /* SegmentView.swift */; };
 		07CA3A3B1FCEB37B006C2D5F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07CA3A3A1FCEB37B006C2D5F /* AppDelegate.swift */; };
 		07CA3A401FCEB37B006C2D5F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 07CA3A3E1FCEB37B006C2D5F /* Main.storyboard */; };
 		07CA3A421FCEB37B006C2D5F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 07CA3A411FCEB37B006C2D5F /* Assets.xcassets */; };
@@ -211,6 +230,25 @@
 		0799AEF31FDA6E26002B05DB /* RecommendItemCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = RecommendItemCell.xib; sourceTree = "<group>"; };
 		0799AEF51FDA6E31002B05DB /* RecommendCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecommendCell.swift; sourceTree = "<group>"; };
 		0799AEF71FDA6E77002B05DB /* RecommendItemCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecommendItemCell.swift; sourceTree = "<group>"; };
+		0799AEFA1FDAA0D9002B05DB /* UserHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserHeaderView.swift; sourceTree = "<group>"; };
+		0799AEFC1FDAA104002B05DB /* BaseView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseView.swift; sourceTree = "<group>"; };
+		0799AEFE1FDBC09D002B05DB /* me.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = me.storyboard; sourceTree = "<group>"; };
+		0799AF021FDBD017002B05DB /* AddressVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddressVC.swift; sourceTree = "<group>"; };
+		0799AF041FDBD03D002B05DB /* AddressDetailVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddressDetailVC.swift; sourceTree = "<group>"; };
+		0799AF061FDBD06E002B05DB /* LogisticsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogisticsVC.swift; sourceTree = "<group>"; };
+		0799AF081FDBD0DB002B05DB /* OrderDetailVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderDetailVC.swift; sourceTree = "<group>"; };
+		0799AF0A1FDBD107002B05DB /* OrderCompleteVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderCompleteVC.swift; sourceTree = "<group>"; };
+		0799AF0C1FDBD139002B05DB /* SettingVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingVC.swift; sourceTree = "<group>"; };
+		0799AF0E1FDBD295002B05DB /* LoginVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginVC.swift; sourceTree = "<group>"; };
+		0799AF101FDBD2DE002B05DB /* RegisterVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterVC.swift; sourceTree = "<group>"; };
+		0799AF121FDBD312002B05DB /* RegisterCompleteVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterCompleteVC.swift; sourceTree = "<group>"; };
+		0799AF141FDBD925002B05DB /* VerifyCodeLoginVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VerifyCodeLoginVC.swift; sourceTree = "<group>"; };
+		0799AF161FDBD962002B05DB /* ForgetPasswordVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForgetPasswordVC.swift; sourceTree = "<group>"; };
+		0799AF181FDBD994002B05DB /* ResetPasswordVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResetPasswordVC.swift; sourceTree = "<group>"; };
+		0799AF1A1FDBDA49002B05DB /* AboutUS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutUS.swift; sourceTree = "<group>"; };
+		0799AF1C1FDBDAB9002B05DB /* QuestionVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionVC.swift; sourceTree = "<group>"; };
+		0799AF1E1FDBDAE1002B05DB /* CollectionVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionVC.swift; sourceTree = "<group>"; };
+		0799AF201FDD006D002B05DB /* SegmentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SegmentView.swift; sourceTree = "<group>"; };
 		07CA3A371FCEB37B006C2D5F /* PandaShop.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PandaShop.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		07CA3A3A1FCEB37B006C2D5F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		07CA3A3F1FCEB37B006C2D5F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -451,6 +489,14 @@
 			path = Recommend;
 			sourceTree = "<group>";
 		};
+		0799AEF91FDAA040002B05DB /* UserHeaderView */ = {
+			isa = PBXGroup;
+			children = (
+				0799AEFA1FDAA0D9002B05DB /* UserHeaderView.swift */,
+			);
+			path = UserHeaderView;
+			sourceTree = "<group>";
+		};
 		07CA3A2E1FCEB37B006C2D5F = {
 			isa = PBXGroup;
 			children = (
@@ -479,7 +525,7 @@
 				07CA3A6C1FCEB3BE006C2D5F /* BaseClass */,
 				07CA3A721FCEB3BE006C2D5F /* Category */,
 				07CA3ABE1FCEB3BF006C2D5F /* Constant */,
-				07CA3ABD1FCEB3BF006C2D5F /* Extension */,
+				07CA3ABD1FCEB3BF006C2D5F /* Common */,
 				07CA3AB61FCEB3BE006C2D5F /* Helper */,
 				07CA3A6F1FCEB3BE006C2D5F /* Macro */,
 				07CA3A7A1FCEB3BE006C2D5F /* Resources */,
@@ -531,6 +577,7 @@
 				07CA3C0E1FCFAD56006C2D5F /* BaseViewModel.swift */,
 				07CA3C141FCFE01A006C2D5F /* BaseModel.swift */,
 				0719FBED1FD6749F00291AAE /* BaseCollectionViewCell.swift */,
+				0799AEFC1FDAA104002B05DB /* BaseView.swift */,
 			);
 			path = BaseClass;
 			sourceTree = "<group>";
@@ -758,6 +805,22 @@
 			isa = PBXGroup;
 			children = (
 				07CA3AAC1FCEB3BE006C2D5F /* JKMeViewController.swift */,
+				0799AEFE1FDBC09D002B05DB /* me.storyboard */,
+				0799AF021FDBD017002B05DB /* AddressVC.swift */,
+				0799AF041FDBD03D002B05DB /* AddressDetailVC.swift */,
+				0799AF061FDBD06E002B05DB /* LogisticsVC.swift */,
+				0799AF081FDBD0DB002B05DB /* OrderDetailVC.swift */,
+				0799AF0A1FDBD107002B05DB /* OrderCompleteVC.swift */,
+				0799AF0C1FDBD139002B05DB /* SettingVC.swift */,
+				0799AF0E1FDBD295002B05DB /* LoginVC.swift */,
+				0799AF101FDBD2DE002B05DB /* RegisterVC.swift */,
+				0799AF121FDBD312002B05DB /* RegisterCompleteVC.swift */,
+				0799AF141FDBD925002B05DB /* VerifyCodeLoginVC.swift */,
+				0799AF161FDBD962002B05DB /* ForgetPasswordVC.swift */,
+				0799AF181FDBD994002B05DB /* ResetPasswordVC.swift */,
+				0799AF1A1FDBDA49002B05DB /* AboutUS.swift */,
+				0799AF1C1FDBDAB9002B05DB /* QuestionVC.swift */,
+				0799AF1E1FDBDAE1002B05DB /* CollectionVC.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -772,6 +835,7 @@
 		07CA3AAE1FCEB3BE006C2D5F /* View */ = {
 			isa = PBXGroup;
 			children = (
+				0799AEF91FDAA040002B05DB /* UserHeaderView */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -857,11 +921,12 @@
 			path = SLProgress;
 			sourceTree = "<group>";
 		};
-		07CA3ABD1FCEB3BF006C2D5F /* Extension */ = {
+		07CA3ABD1FCEB3BF006C2D5F /* Common */ = {
 			isa = PBXGroup;
 			children = (
+				0799AF201FDD006D002B05DB /* SegmentView.swift */,
 			);
-			path = Extension;
+			path = Common;
 			sourceTree = "<group>";
 		};
 		07CA3ABE1FCEB3BF006C2D5F /* Constant */ = {
@@ -1213,6 +1278,7 @@
 				07D2163A1FCFEB9E004EF416 /* menu.json in Resources */,
 				07CA3BA51FCF969E006C2D5F /* checkBox_normal.png in Resources */,
 				07CA3BA61FCF969E006C2D5F /* checkBox_normal@2x.png in Resources */,
+				0799AEFF1FDBC09D002B05DB /* me.storyboard in Resources */,
 				0799AEEC1FDA68A2002B05DB /* RowNColItemCell.xib in Resources */,
 				07CA3BA71FCF969E006C2D5F /* checkBox_normal@3x.png in Resources */,
 				07CA3BA81FCF969E006C2D5F /* checkBox_select.png in Resources */,
@@ -1449,11 +1515,16 @@
 			buildActionMask = 2147483647;
 			files = (
 				0799AEE51FDA6319002B05DB /* MenuItemCell.swift in Sources */,
+				0799AEFB1FDAA0D9002B05DB /* UserHeaderView.swift in Sources */,
 				0719FC011FD6A1C000291AAE /* BannerCell.swift in Sources */,
 				0799AEE81FDA67C5002B05DB /* RowNColCell.swift in Sources */,
 				0719FC021FD6A1C000291AAE /* BannerView.swift in Sources */,
+				0799AF031FDBD017002B05DB /* AddressVC.swift in Sources */,
+				0799AF091FDBD0DB002B05DB /* OrderDetailVC.swift in Sources */,
 				07CA3AED1FCEB96B006C2D5F /* SLBaseTableViewCell.swift in Sources */,
 				07CA3AEE1FCEB96B006C2D5F /* SLBaseViewController.swift in Sources */,
+				0799AF111FDBD2DE002B05DB /* RegisterVC.swift in Sources */,
+				0799AEFD1FDAA104002B05DB /* BaseView.swift in Sources */,
 				07CA3AEF1FCEB96B006C2D5F /* String+Ext.swift in Sources */,
 				07CA3AF01FCEB96B006C2D5F /* UIBarButtonItem+Ext.swift in Sources */,
 				07CA3AF11FCEB96B006C2D5F /* UIButton+Ext.swift in Sources */,
@@ -1461,30 +1532,43 @@
 				07CA3C111FCFB9E7006C2D5F /* SLJsonHelper.swift in Sources */,
 				0719FBEE1FD6749F00291AAE /* BaseCollectionViewCell.swift in Sources */,
 				0799AEEF1FDA6D58002B05DB /* TitleCell.swift in Sources */,
+				0799AF211FDD006D002B05DB /* SegmentView.swift in Sources */,
+				0799AF051FDBD03D002B05DB /* AddressDetailVC.swift in Sources */,
+				0799AF0B1FDBD107002B05DB /* OrderCompleteVC.swift in Sources */,
 				07CA3AF31FCEB96B006C2D5F /* UIImageView+Ext.swift in Sources */,
 				07CA3AF41FCEB96B006C2D5F /* UILabel+Ext.swift in Sources */,
 				07CA3AF51FCEB96B006C2D5F /* UiView+Ext.swift in Sources */,
 				07CA3AF61FCEB96B006C2D5F /* SLHelper.swift in Sources */,
+				0799AF1F1FDBDAE1002B05DB /* CollectionVC.swift in Sources */,
 				07CA3AF71FCEB96B006C2D5F /* SLRegexHelper.swift in Sources */,
 				07CA3AF81FCEB96B006C2D5F /* consant.swift in Sources */,
 				07CA3C0F1FCFAD56006C2D5F /* BaseViewModel.swift in Sources */,
+				0799AF191FDBD994002B05DB /* ResetPasswordVC.swift in Sources */,
+				0799AF131FDBD312002B05DB /* RegisterCompleteVC.swift in Sources */,
 				07CA3B0B1FCEB96C006C2D5F /* JKCategoryViewController.swift in Sources */,
 				07CA3B0C1FCEB96C006C2D5F /* JKHomeViewController.swift in Sources */,
 				07CA3B0D1FCEB96C006C2D5F /* HomeModel.swift in Sources */,
+				0799AF171FDBD962002B05DB /* ForgetPasswordVC.swift in Sources */,
 				07CA3B121FCEB96C006C2D5F /* HomeViewModel.swift in Sources */,
 				0799AEF61FDA6E31002B05DB /* RecommendCell.swift in Sources */,
 				07CA3B131FCEB96C006C2D5F /* SLNavigationController.swift in Sources */,
 				07CA3B141FCEB96C006C2D5F /* SLTabbarViewController.swift in Sources */,
 				07CA3B151FCEB96C006C2D5F /* JKMeViewController.swift in Sources */,
+				0799AF1B1FDBDA49002B05DB /* AboutUS.swift in Sources */,
 				07CA3B161FCEB96C006C2D5F /* JKShopCartViewController.swift in Sources */,
+				0799AF0F1FDBD295002B05DB /* LoginVC.swift in Sources */,
 				07CA3B171FCEB96C006C2D5F /* APIManager.swift in Sources */,
 				07CA3C151FCFE01A006C2D5F /* BaseModel.swift in Sources */,
 				0799AEEA1FDA689A002B05DB /* RowNColItemCell.swift in Sources */,
 				07CA3B181FCEB96C006C2D5F /* ModelExtension.swift in Sources */,
+				0799AF0D1FDBD139002B05DB /* SettingVC.swift in Sources */,
 				0799AEF81FDA6E77002B05DB /* RecommendItemCell.swift in Sources */,
 				07CA3B191FCEB96C006C2D5F /* RequestPlugin.swift in Sources */,
 				07CA3B1A1FCEB96C006C2D5F /* SLProgressHUD.swift in Sources */,
 				0799AED31FDA5BF6002B05DB /* MenuCell.swift in Sources */,
+				0799AF071FDBD06E002B05DB /* LogisticsVC.swift in Sources */,
+				0799AF151FDBD925002B05DB /* VerifyCodeLoginVC.swift in Sources */,
+				0799AF1D1FDBDAB9002B05DB /* QuestionVC.swift in Sources */,
 				07CA3A3B1FCEB37B006C2D5F /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

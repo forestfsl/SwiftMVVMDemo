@@ -24,6 +24,16 @@ enum SLRefreshStatus {
 }
 
 class BaseViewModel: NSObject {
+    var title : String?
+    var params: [String:Any]?
+    
+    override init() {
+        super.init()
+    }
+    
+    func initWithViewModel(_ model:BaseModel?,_ params:[String:Any]?) {
+        title = params!["title"] as? String
+    }
     
 }
 
