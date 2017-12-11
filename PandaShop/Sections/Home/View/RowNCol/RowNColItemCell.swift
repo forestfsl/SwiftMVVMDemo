@@ -20,7 +20,8 @@ class RowNColItemCell: BaseCollectionViewCell {
         let roomModel = data as? RoomModel
         productImageV.SL_setImage(withUrlString: roomModel?.headImg, placeholderImgName: "placeholder")
         productLabel.text = roomModel?.productName
-        productPriceLabel.text = String(format:"%.2f",(roomModel?.marketPrice)!/100)
+//        productPriceLabel.text = String(format:"%.2f",(roomModel?.marketPrice)!/100)
+        productPriceLabel.text  = roomModel?.marketPrice
     }
     
     override func configSubViews() {

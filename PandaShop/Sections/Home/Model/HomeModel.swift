@@ -76,7 +76,7 @@ class RoomModel: Mappable {
     var action: String?
     var headImg: String?
     var needLogin: Bool?
-    var marketPrice: Double?
+    var marketPrice: String!
     var ourPrice: Double?
     var productImageUrl: String?
     var productName: String?

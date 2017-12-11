@@ -42,11 +42,15 @@ class JKHomeViewController: SLBaseViewController {
         collectionView.backgroundColor = kCollectionVBackColor
         collectionView.dataSource = self
         collectionView.delegate = self
-//        collectionView.autoresizingMask = [.flexibleWidth,.flexibleHeight]
         //注册cell
-
-        collectionView.register(BannerCell.nib(), forCellWithReuseIdentifier: BannerCell.reuseIdentifier())
-        collectionView.register(BannerCell.classForCoder(), forCellWithReuseIdentifier: BannerCell.reuseIdentifier())
+        collectionView.register(RecommendCell.classForCoder(), forCellWithReuseIdentifier: RecommendCell.reuseIdentifier())
+        collectionView.register(BannerCell.classForCoder(),     forCellWithReuseIdentifier: BannerCell.reuseIdentifier())
+        collectionView.register(TitleCell.nib(), forCellWithReuseIdentifier: TitleCell.reuseIdentifier())
+        collectionView.register(RowNColCell.classForCoder(), forCellWithReuseIdentifier: RowNColCell.reuseIdentifier())
+        collectionView.register(MenuCell.classForCoder(), forCellWithReuseIdentifier: MenuCell.reuseIdentifier())
+        
+        
+        
         return collectionView
         }()
 
@@ -75,15 +79,15 @@ class JKHomeViewController: SLBaseViewController {
     func fetchCellIdentifier(_ indexPath : IndexPath) ->  String {
  
         switch indexPath.row {
-        case 0,1,4:
+        case 0,1,3,5:
             return "BannerCell"
         case 2:
             return "MenuCell"
-        case 3,5:
+        case 4,6:
             return "RowNColCell"
-        case 6:
-            return "TitleCell"
         case 7:
+            return "TitleCell"
+        case 8:
             return "RecommendCell"
         default:
             return "BannerCell"
@@ -100,8 +104,7 @@ extension JKHomeViewController: UICollectionViewDataSource {
     }
     
     func collectionView(_ collectionView: UICollectionView, numberOfItemsInSection section: Int) -> Int {
-//        return (self.homeVM.floorsModel?.data?.floors?.count)!
-        return 1
+        return (self.homeVM.floorsModel?.data?.floors?.count)!
     }
     
     func collectionView(_ collectionView: UICollectionView, cellForItemAt indexPath: IndexPath) -> UICollectionViewCell {
@@ -120,14 +123,18 @@ extension JKHomeViewController : UICollectionViewDelegate {
 extension JKHomeViewController : UICollectionViewDelegateFlowLayout {
     func collectionView(_ collectionView: UICollectionView, layout collectionViewLayout: UICollectionViewLayout, sizeForItemAt indexPath: IndexPath) -> CGSize {
         switch indexPath.row {
-        case 0,1,4:
+        case 0,1,3,5:
               return CGSize(width:kScreenW,height:160)
         case 2:
-            return CGSize(width:kScreenW,height:200)
-        case 3,5:
-            return CGSize(width:kScreenW,height:200)
-        case 6:
-            return CGSize(width:kScreenW,height:220)
+            return CGSize(width:kScreenW,height:120)
+        case 4,6:
+            return CGSize(width:kScreenW,height:132)
+        case 7:
+            return CGSize(width:kScreenW,height:50)
+        case 8:
+            let floorModel = (self.homeVM.floorsModel?.data?.floors![indexPath.row])! as FloorModel
+            let height = (floorModel.rooms?.count)! * 100
+            return CGSize(width:kScreenW,height:CGFloat(height))
         default:
             return CGSize(width:kScreenW,height:0.1)
         }

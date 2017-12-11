@@ -10,5 +10,6 @@ import Foundation
 import UIKit
 
 class TitleCell: BaseCollectionViewCell {
+    @IBOutlet weak var titleLabel: UILabel!
     
 }

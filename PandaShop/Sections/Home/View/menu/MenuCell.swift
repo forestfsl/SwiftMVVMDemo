@@ -13,12 +13,15 @@ class MenuCell: BaseCollectionViewCell {
     var floorModel : FloorModel?
     
     
+    
     override func configCellData(_ data: AnyObject) {
         floorModel = data as? FloorModel
         
     }
     override func configSubViews() {
         super .configSubViews()
+        collectionView?.backgroundColor = UIColor.clear
+        collectionView?.register(MenuItemCell.nib(), forCellWithReuseIdentifier: MenuItemCell.reuseIdentifier())
     }
     
     override func numberOfSections(in collectionView: UICollectionView) -> Int {
@@ -40,6 +43,6 @@ class MenuCell: BaseCollectionViewCell {
         NSLog("MenuCell 被点击了")
     }
     override func collectionView(_ collectionView: UICollectionView, layout collectionViewLayout: UICollectionViewLayout, sizeForItemAt indexPath: IndexPath) -> CGSize {
-        return CGSize(width:112,height:120)
+        return CGSize(width:kScreenW / 4,height:120)
     }
 }

@@ -28,6 +28,7 @@ class RecommendItemCell: BaseCollectionViewCell {
         productImageV.SL_setImage(withUrlString: roomModel?.headImg, placeholderImgName: "placeholder")
         productNameLabel.text = roomModel?.title;
         productDesLabel.text = roomModel?.introduction
-        productPriceLabel.text = String(format:"%.2f",(roomModel?.marketPrice)! / 100.0)
+        productPriceLabel.text = roomModel?.marketPrice
+        
     }
 }

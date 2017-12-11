@@ -47,8 +47,12 @@ class BaseCollectionViewCell: UICollectionViewCell {
     func configSubViews() {
         
         collectionView = UICollectionView(frame:CGRect.zero,collectionViewLayout: self.layout)
+        collectionView?.showsVerticalScrollIndicator = false
+        collectionView?.showsHorizontalScrollIndicator = false
         collectionView?.dataSource = self
         collectionView?.delegate = self
+        collectionView?.isScrollEnabled = false
+        collectionView?.backgroundColor = UIColor.clear
         self .addSubview(collectionView!)
     }
     //配置约束

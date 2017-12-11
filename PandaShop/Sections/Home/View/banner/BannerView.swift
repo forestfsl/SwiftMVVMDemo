@@ -30,8 +30,6 @@ class BannerView: UIView,UICollectionViewDelegate,UICollectionViewDataSource,UIS
                 addTimer()
             }
             self.pageControl.numberOfPages = (self.imgArr?.count)!
-            self.collectionView.backgroundColor = UIColor.red
-            self.backgroundColor = UIColor.green
             self.collectionView.reloadData()
         }
     }

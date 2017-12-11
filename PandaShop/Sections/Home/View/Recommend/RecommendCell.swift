@@ -11,6 +11,13 @@ import UIKit
 
 class RecommendCell: BaseCollectionViewCell {
     var floorModel : FloorModel?
+    
+    override func configSubViews() {
+        super.configSubViews()
+        
+    collectionView?.register(RecommendItemCell.nib(), forCellWithReuseIdentifier: RecommendItemCell.reuseIdentifier())
+    }
+    
     override func configCellData(_ data: AnyObject) {
        floorModel = data as? FloorModel
     }
@@ -25,5 +32,9 @@ class RecommendCell: BaseCollectionViewCell {
         
         return cell!
         
+    }
+    
+    override func collectionView(_ collectionView: UICollectionView, layout collectionViewLayout: UICollectionViewLayout, sizeForItemAt indexPath: IndexPath) -> CGSize {
+        return CGSize(width:kScreenW / 2 ,height:200)
     }
 }

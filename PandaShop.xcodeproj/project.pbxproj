@@ -450,6 +450,13 @@
 			path = banner;
 			sourceTree = "<group>";
 		};
+		075191011FDE825C0017968C /* Constant */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Constant;
+			sourceTree = "<group>";
+		};
 		0799AED11FDA5BBA002B05DB /* menu */ = {
 			isa = PBXGroup;
 			children = (
@@ -522,9 +529,9 @@
 		07CA3A391FCEB37B006C2D5F /* PandaShop */ = {
 			isa = PBXGroup;
 			children = (
+				075191011FDE825C0017968C /* Constant */,
 				07CA3A6C1FCEB3BE006C2D5F /* BaseClass */,
 				07CA3A721FCEB3BE006C2D5F /* Category */,
-				07CA3ABE1FCEB3BF006C2D5F /* Constant */,
 				07CA3ABD1FCEB3BF006C2D5F /* Common */,
 				07CA3AB61FCEB3BE006C2D5F /* Helper */,
 				07CA3A6F1FCEB3BE006C2D5F /* Macro */,
@@ -794,9 +801,7 @@
 			isa = PBXGroup;
 			children = (
 				07CA3AAB1FCEB3BE006C2D5F /* Controller */,
-				07CA3AAD1FCEB3BE006C2D5F /* Model */,
 				07CA3AAE1FCEB3BE006C2D5F /* View */,
-				07CA3AAF1FCEB3BE006C2D5F /* ViewModel */,
 			);
 			path = Me;
 			sourceTree = "<group>";
@@ -825,26 +830,12 @@
 			path = Controller;
 			sourceTree = "<group>";
 		};
-		07CA3AAD1FCEB3BE006C2D5F /* Model */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Model;
-			sourceTree = "<group>";
-		};
 		07CA3AAE1FCEB3BE006C2D5F /* View */ = {
 			isa = PBXGroup;
 			children = (
 				0799AEF91FDAA040002B05DB /* UserHeaderView */,
 			);
 			path = View;
-			sourceTree = "<group>";
-		};
-		07CA3AAF1FCEB3BE006C2D5F /* ViewModel */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = ViewModel;
 			sourceTree = "<group>";
 		};
 		07CA3AB01FCEB3BE006C2D5F /* ShopCart */ = {
@@ -927,13 +918,6 @@
 				0799AF201FDD006D002B05DB /* SegmentView.swift */,
 			);
 			path = Common;
-			sourceTree = "<group>";
-		};
-		07CA3ABE1FCEB3BF006C2D5F /* Constant */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Constant;
 			sourceTree = "<group>";
 		};
 		07CA3B2C1FCF9654006C2D5F /* Images */ = {
@@ -1743,7 +1727,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.songlin.PandaShop;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -1759,7 +1743,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.songlin.PandaShop;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};

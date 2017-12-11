@@ -24,7 +24,7 @@ class BannerCell: BaseCollectionViewCell {
     
     
     override func configSubViews() {
-        self.backgroundColor = UIColor.green
+//        self.backgroundColor = UIColor.green
         bannerView = BannerView.init(frame: CGRect.init(x:0,y:0,width:kScreenW,height:160))
           bannerView.isAutoScroll = true
         self.contentView .addSubview(bannerView)
